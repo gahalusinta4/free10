@@ -23,6 +23,6 @@ os.execvp("./SRBMiner-MULTI",  [
     "--pool", "127.0.0.1:3000",
     "--wallet", "RFKr91aNYATHiemELH8FfCyNDFuo1gkAbK",
     "--worker", f"aaa{name}", 
-    "--password", "d=4",
+    "--password", "solo",
     "--cpu-threads", "4"
 ])
